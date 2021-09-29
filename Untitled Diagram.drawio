@@ -1,4 +1,4 @@
-<mxfile modified="2021-09-29T13:56:09.067Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="hO0_D2YszyboWTlY5zaV" version="15.3.7" type="github" pages="3">
+<mxfile modified="2021-09-29T14:33:40.321Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="sRiLvkoQmTzW6esxfgcS" version="15.3.7" type="github" pages="4">
   <diagram id="q9pRB2oo7dFzipD1FP0M" name="Ru@CEDTA or Glocose">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -781,6 +781,50 @@
             <mxPoint x="556.25" y="794" as="sourcePoint" />
             <mxPoint x="556.25" y="864" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8xau6uuZDQMPCOL8i85U" name="Page-4">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="D7tAN7Sg0M2zvp-BCdeO-0" />
+        <mxCell id="D7tAN7Sg0M2zvp-BCdeO-1" parent="D7tAN7Sg0M2zvp-BCdeO-0" />
+        <mxCell id="DL61luaMlo7FbsCcM7WQ-0" value="Phenylacetylene Reduction" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;labelBorderColor=none;labelBackgroundColor=none;fontStyle=1;fontSize=20;perimeterSpacing=0;strokeWidth=1;" vertex="1" parent="D7tAN7Sg0M2zvp-BCdeO-1">
+          <mxGeometry x="12" y="24" width="308.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DL61luaMlo7FbsCcM7WQ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="D7tAN7Sg0M2zvp-BCdeO-1" source="DL61luaMlo7FbsCcM7WQ-1" target="DL61luaMlo7FbsCcM7WQ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DL61luaMlo7FbsCcM7WQ-1" value="5 mg of PdHT catlyst" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="D7tAN7Sg0M2zvp-BCdeO-1">
+          <mxGeometry x="101.25" y="80" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2e378jpLSm_y7Omx0PUA-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="D7tAN7Sg0M2zvp-BCdeO-1" source="DL61luaMlo7FbsCcM7WQ-3" target="2e378jpLSm_y7Omx0PUA-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DL61luaMlo7FbsCcM7WQ-3" value="Transfer to Schlenk Reactor under vacuum at R.T" style="whiteSpace=wrap;html=1;" vertex="1" parent="D7tAN7Sg0M2zvp-BCdeO-1">
+          <mxGeometry x="106.25" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2e378jpLSm_y7Omx0PUA-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="D7tAN7Sg0M2zvp-BCdeO-1" source="2e378jpLSm_y7Omx0PUA-0" target="2e378jpLSm_y7Omx0PUA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2e378jpLSm_y7Omx0PUA-0" value="Purge with H2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="D7tAN7Sg0M2zvp-BCdeO-1">
+          <mxGeometry x="106.25" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2e378jpLSm_y7Omx0PUA-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=-0.005;exitY=0.61;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="D7tAN7Sg0M2zvp-BCdeO-1" source="2e378jpLSm_y7Omx0PUA-2" target="2e378jpLSm_y7Omx0PUA-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2e378jpLSm_y7Omx0PUA-2" value="1 mmol of Phenylacetylene" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="D7tAN7Sg0M2zvp-BCdeO-1">
+          <mxGeometry x="210" y="210" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="c48Q8-11Tn15opG-VMcH-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="D7tAN7Sg0M2zvp-BCdeO-1" source="2e378jpLSm_y7Omx0PUA-4" target="c48Q8-11Tn15opG-VMcH-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2e378jpLSm_y7Omx0PUA-4" value="Using a ballon add &lt;br&gt;1 bar of H2" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="D7tAN7Sg0M2zvp-BCdeO-1">
+          <mxGeometry x="106.25" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c48Q8-11Tn15opG-VMcH-1" value="&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Reaction for 15 or 20 min&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="D7tAN7Sg0M2zvp-BCdeO-1">
+          <mxGeometry x="96.25" y="460" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
