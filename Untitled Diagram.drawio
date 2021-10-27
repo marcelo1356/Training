@@ -1,4 +1,4 @@
-<mxfile modified="2021-10-27T01:28:01.701Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="y2KKuxRSQoB6w-P1Ad6f" version="15.5.5" type="github" pages="5">
+<mxfile modified="2021-10-27T01:42:17.275Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="b2zGHE5qpmcHnR-oVoar" version="15.5.5" type="github" pages="5">
   <diagram id="q9pRB2oo7dFzipD1FP0M" name="Ru@CEDTA or Glocose">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -587,36 +587,25 @@
             <mxPoint x="313" y="474" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="518O6HRU3gErrunkRQ35-9" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;Red supension is &lt;br&gt;transfered to 35mL Autoclave&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="518O6HRU3gErrunkRQ35-8">
+        <mxCell id="518O6HRU3gErrunkRQ35-9" value="Cooling down&amp;nbsp; in an ice-water&lt;br&gt;and release H2 carefully" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="518O6HRU3gErrunkRQ35-8">
           <mxGeometry x="-0.4311" y="-2" relative="1" as="geometry">
             <mxPoint x="2" y="14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="518O6HRU3gErrunkRQ35-10" value="Heating at 100 ℃&amp;nbsp; for 2 h&amp;nbsp; while stirring at 800 rpm&lt;br&gt;&amp;nbsp;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="tHVY4clIUbVrdbu45X3t-1">
+        <mxCell id="518O6HRU3gErrunkRQ35-10" value="&lt;br&gt;Heating at 100 ℃&amp;nbsp; &lt;br&gt;for 2 h&amp;nbsp; while stirring at 800 rpm&lt;br&gt;&amp;nbsp;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="tHVY4clIUbVrdbu45X3t-1">
           <mxGeometry x="347.25" y="394" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="518O6HRU3gErrunkRQ35-13" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="tHVY4clIUbVrdbu45X3t-1" source="518O6HRU3gErrunkRQ35-15" target="518O6HRU3gErrunkRQ35-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="518O6HRU3gErrunkRQ35-14" value="Cooling down to R.T for 3 hours" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="518O6HRU3gErrunkRQ35-13">
-          <mxGeometry x="-0.3143" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="518O6HRU3gErrunkRQ35-15" value="Static Hydrothermal Processing at 200 ℃ for 24h" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="tHVY4clIUbVrdbu45X3t-1">
+        <mxCell id="518O6HRU3gErrunkRQ35-15" value="Separation by centrifugation" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="tHVY4clIUbVrdbu45X3t-1">
           <mxGeometry x="347.25" y="564" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="518O6HRU3gErrunkRQ35-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="tHVY4clIUbVrdbu45X3t-1" source="518O6HRU3gErrunkRQ35-17" target="518O6HRU3gErrunkRQ35-18">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="518O6HRU3gErrunkRQ35-17" value="HPLC analysis &lt;br&gt;using D-sucrose as an I.S" style="rhombus;whiteSpace=wrap;html=1;rounded=1;hachureGap=4;" vertex="1" parent="tHVY4clIUbVrdbu45X3t-1">
+          <mxGeometry x="339.75" y="660" width="135" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="518O6HRU3gErrunkRQ35-17" value="Filtration and &lt;br&gt;Washing with D.W and acetone 5 times" style="rhombus;whiteSpace=wrap;html=1;rounded=1;hachureGap=4;" vertex="1" parent="tHVY4clIUbVrdbu45X3t-1">
-          <mxGeometry x="339.75" y="674" width="135" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="518O6HRU3gErrunkRQ35-18" value="Ru@C-EDTA-X" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="tHVY4clIUbVrdbu45X3t-1">
-          <mxGeometry x="357.25" y="854" width="100" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="518O6HRU3gErrunkRQ35-19" value="Hydrogenation of D-Glucose" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;labelBorderColor=none;labelBackgroundColor=none;fontStyle=1;fontSize=20;perimeterSpacing=0;strokeWidth=1;" vertex="1" parent="tHVY4clIUbVrdbu45X3t-1">
-          <mxGeometry x="253" y="24" width="308.5" height="40" as="geometry" />
+        <mxCell id="518O6HRU3gErrunkRQ35-19" value="Hydrogenation of D-Glucose&lt;br&gt;to D-Sorbitol" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;labelBorderColor=none;labelBackgroundColor=none;fontStyle=1;fontSize=20;perimeterSpacing=0;strokeWidth=1;" vertex="1" parent="tHVY4clIUbVrdbu45X3t-1">
+          <mxGeometry x="253" y="24" width="308.5" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
