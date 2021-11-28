@@ -1,4 +1,4 @@
-<mxfile modified="2021-11-06T16:31:33.175Z" host="app.diagrams.net" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="4elaOr_lJuhIvmZg8tVN" version="15.5.4" type="github" pages="6">
+<mxfile modified="2021-11-28T15:44:40.803Z" host="app.diagrams.net" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="g9oQut3qV_PZtPS7xMnz" version="15.7.0" type="github" pages="7">
   <diagram id="q9pRB2oo7dFzipD1FP0M" name="Ru@CEDTA or Glocose">
     <mxGraphModel dx="981" dy="557" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -168,7 +168,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="PdCx nanocrystals">
-    <mxGraphModel dx="981" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -317,7 +317,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LjhJdoWi_o39hHOWQiwN" name="Pd0/Pd-carbide/carbon">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="4gwO2s0sPmBjy7QAdhFu-0" />
         <mxCell id="4gwO2s0sPmBjy7QAdhFu-1" parent="4gwO2s0sPmBjy7QAdhFu-0" />
@@ -490,7 +490,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8xau6uuZDQMPCOL8i85U" name="reaction">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="D7tAN7Sg0M2zvp-BCdeO-0" />
         <mxCell id="D7tAN7Sg0M2zvp-BCdeO-1" parent="D7tAN7Sg0M2zvp-BCdeO-0" />
@@ -534,7 +534,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nxiEB5V_cux_qYkdH07Q" name="Hydrogenation of D-Glucose">
-    <mxGraphModel dx="981" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="tHVY4clIUbVrdbu45X3t-0" />
         <mxCell id="tHVY4clIUbVrdbu45X3t-1" parent="tHVY4clIUbVrdbu45X3t-0" />
@@ -611,11 +611,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rAqSBhXX1dC4XZsq_j-o" name="Page-6">
-    <mxGraphModel dx="677" dy="408" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="557" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="xG_cIdHY0XwvoyDIyuQh-0" />
         <mxCell id="xG_cIdHY0XwvoyDIyuQh-1" parent="xG_cIdHY0XwvoyDIyuQh-0" />
-        <mxCell id="xG_cIdHY0XwvoyDIyuQh-2" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="xG_cIdHY0XwvoyDIyuQh-1" source="xG_cIdHY0XwvoyDIyuQh-3" target="xG_cIdHY0XwvoyDIyuQh-9">
+        <mxCell id="xG_cIdHY0XwvoyDIyuQh-2" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="xG_cIdHY0XwvoyDIyuQh-1" source="xG_cIdHY0XwvoyDIyuQh-3" target="xG_cIdHY0XwvoyDIyuQh-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="166" y="124" />
@@ -623,10 +623,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xG_cIdHY0XwvoyDIyuQh-3" value="60 mg of L-ascorbic acid" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="xG_cIdHY0XwvoyDIyuQh-1">
+        <mxCell id="xG_cIdHY0XwvoyDIyuQh-3" value="60 mg of L-ascorbic acid" style="text;whiteSpace=wrap;html=1;" parent="xG_cIdHY0XwvoyDIyuQh-1" vertex="1">
           <mxGeometry x="182" y="84" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xG_cIdHY0XwvoyDIyuQh-4" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="xG_cIdHY0XwvoyDIyuQh-1" source="xG_cIdHY0XwvoyDIyuQh-5" target="xG_cIdHY0XwvoyDIyuQh-9">
+        <mxCell id="xG_cIdHY0XwvoyDIyuQh-4" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="xG_cIdHY0XwvoyDIyuQh-1" source="xG_cIdHY0XwvoyDIyuQh-5" target="xG_cIdHY0XwvoyDIyuQh-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="166" y="164" />
@@ -634,10 +634,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xG_cIdHY0XwvoyDIyuQh-5" value="585 mg of KBr" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="xG_cIdHY0XwvoyDIyuQh-1">
+        <mxCell id="xG_cIdHY0XwvoyDIyuQh-5" value="585 mg of KBr" style="text;whiteSpace=wrap;html=1;" parent="xG_cIdHY0XwvoyDIyuQh-1" vertex="1">
           <mxGeometry x="187" y="114" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xG_cIdHY0XwvoyDIyuQh-6" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="xG_cIdHY0XwvoyDIyuQh-1" source="xG_cIdHY0XwvoyDIyuQh-7" target="xG_cIdHY0XwvoyDIyuQh-9">
+        <mxCell id="xG_cIdHY0XwvoyDIyuQh-6" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="xG_cIdHY0XwvoyDIyuQh-1" source="xG_cIdHY0XwvoyDIyuQh-7" target="xG_cIdHY0XwvoyDIyuQh-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="166" y="214" />
@@ -645,10 +645,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xG_cIdHY0XwvoyDIyuQh-7" value="105 mg of Polyvinylpyrrolidone" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="xG_cIdHY0XwvoyDIyuQh-1">
+        <mxCell id="xG_cIdHY0XwvoyDIyuQh-7" value="105 mg of Polyvinylpyrrolidone" style="text;whiteSpace=wrap;html=1;" parent="xG_cIdHY0XwvoyDIyuQh-1" vertex="1">
           <mxGeometry x="187" y="144" width="173" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xG_cIdHY0XwvoyDIyuQh-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="xG_cIdHY0XwvoyDIyuQh-1" source="xG_cIdHY0XwvoyDIyuQh-9" target="xG_cIdHY0XwvoyDIyuQh-19">
+        <mxCell id="xG_cIdHY0XwvoyDIyuQh-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;endArrow=block;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endFill=1;" parent="xG_cIdHY0XwvoyDIyuQh-1" source="xG_cIdHY0XwvoyDIyuQh-9" target="xG_cIdHY0XwvoyDIyuQh-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="166.25" y="394" as="targetPoint" />
             <Array as="points">
@@ -659,47 +659,113 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xG_cIdHY0XwvoyDIyuQh-9" value="Mixing in a 50 mL schlenk flask at&amp;nbsp; &lt;br&gt;80 ℃&amp;nbsp;for 10 min &lt;br&gt;under stirring" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="xG_cIdHY0XwvoyDIyuQh-1">
+        <mxCell id="xG_cIdHY0XwvoyDIyuQh-9" value="Mixing in a 50 mL schlenk flask at&amp;nbsp; &lt;br&gt;80 ℃&amp;nbsp;for 10 min &lt;br&gt;under stirring" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="xG_cIdHY0XwvoyDIyuQh-1" vertex="1">
           <mxGeometry x="104.38" y="250" width="123.75" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="xG_cIdHY0XwvoyDIyuQh-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xG_cIdHY0XwvoyDIyuQh-1" source="xG_cIdHY0XwvoyDIyuQh-13" target="xG_cIdHY0XwvoyDIyuQh-20">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560.67" y="366" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="n3q7ClLRN11oFNjtG6P_-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xG_cIdHY0XwvoyDIyuQh-1" source="xG_cIdHY0XwvoyDIyuQh-13" target="xG_cIdHY0XwvoyDIyuQh-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xG_cIdHY0XwvoyDIyuQh-13" value="Centrifugation&lt;br&gt;&amp;nbsp;and Washing with &lt;br&gt;D.W 3 times and&amp;nbsp; with ethanol 1 time" style="rhombus;whiteSpace=wrap;html=1;rounded=1;hachureGap=4;" vertex="1" parent="xG_cIdHY0XwvoyDIyuQh-1">
-          <mxGeometry x="490" y="204" width="141.25" height="136" as="geometry" />
+        <mxCell id="xG_cIdHY0XwvoyDIyuQh-13" value="Centrifugation&lt;br&gt;&amp;nbsp;and washing with &lt;br&gt;&lt;span&gt;H&lt;/span&gt;&lt;sub&gt;2&lt;/sub&gt;&lt;span&gt;O&lt;/span&gt;&amp;nbsp;3 times,&lt;br&gt;ethanol 2 times&lt;br&gt;and&amp;nbsp;Diethyl ether &lt;br&gt;1 time" style="rhombus;whiteSpace=wrap;html=1;rounded=1;hachureGap=4;" parent="xG_cIdHY0XwvoyDIyuQh-1" vertex="1">
+          <mxGeometry x="474.63" y="199" width="172" height="152" as="geometry" />
         </mxCell>
-        <mxCell id="xG_cIdHY0XwvoyDIyuQh-14" value="&amp;nbsp;18 nm Pd Cubic Seeds" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;labelBorderColor=none;labelBackgroundColor=none;fontStyle=1;fontSize=20;perimeterSpacing=0;strokeWidth=1;" vertex="1" parent="xG_cIdHY0XwvoyDIyuQh-1">
+        <mxCell id="xG_cIdHY0XwvoyDIyuQh-14" value="&amp;nbsp;18 nm Pd Cubic Seeds" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;labelBorderColor=none;labelBackgroundColor=none;fontStyle=1;fontSize=20;perimeterSpacing=0;strokeWidth=1;" parent="xG_cIdHY0XwvoyDIyuQh-1" vertex="1">
           <mxGeometry x="12" y="24" width="308.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xG_cIdHY0XwvoyDIyuQh-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.023;exitY=0.55;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="xG_cIdHY0XwvoyDIyuQh-1" source="xG_cIdHY0XwvoyDIyuQh-17" target="xG_cIdHY0XwvoyDIyuQh-9">
+        <mxCell id="xG_cIdHY0XwvoyDIyuQh-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.023;exitY=0.55;exitDx=0;exitDy=0;exitPerimeter=0;" parent="xG_cIdHY0XwvoyDIyuQh-1" source="xG_cIdHY0XwvoyDIyuQh-17" target="xG_cIdHY0XwvoyDIyuQh-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="166" y="195" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xG_cIdHY0XwvoyDIyuQh-17" value="&lt;span&gt;8mL of D.W&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="xG_cIdHY0XwvoyDIyuQh-1">
-          <mxGeometry x="182" y="184" width="80" height="20" as="geometry" />
+        <mxCell id="xG_cIdHY0XwvoyDIyuQh-17" value="8mL of H&lt;sub&gt;2&lt;/sub&gt;O" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="xG_cIdHY0XwvoyDIyuQh-1" vertex="1">
+          <mxGeometry x="186" y="183" width="73" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="xG_cIdHY0XwvoyDIyuQh-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xG_cIdHY0XwvoyDIyuQh-1" source="xG_cIdHY0XwvoyDIyuQh-19" target="xG_cIdHY0XwvoyDIyuQh-13">
+        <mxCell id="xG_cIdHY0XwvoyDIyuQh-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="xG_cIdHY0XwvoyDIyuQh-1" source="xG_cIdHY0XwvoyDIyuQh-19" target="xG_cIdHY0XwvoyDIyuQh-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xG_cIdHY0XwvoyDIyuQh-19" value="Reaction at 80 ℃ for 3h" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xG_cIdHY0XwvoyDIyuQh-1">
+        <mxCell id="xG_cIdHY0XwvoyDIyuQh-19" value="Reaction at 80 ℃ for 3 h" style="rounded=0;whiteSpace=wrap;html=1;" parent="xG_cIdHY0XwvoyDIyuQh-1" vertex="1">
           <mxGeometry x="500.63" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xG_cIdHY0XwvoyDIyuQh-20" value="Re-dispersion in Oleylamine at a&amp;nbsp; concenttration of 1.8mg/mL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xG_cIdHY0XwvoyDIyuQh-1">
-          <mxGeometry x="498.75" y="380" width="120" height="60" as="geometry" />
+        <mxCell id="xG_cIdHY0XwvoyDIyuQh-20" value="Re-dispersion in Oleylamine at a&amp;nbsp; concenttration of 1.8mg/mL" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;" parent="xG_cIdHY0XwvoyDIyuQh-1" vertex="1">
+          <mxGeometry x="500.63" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GzW3q7O4qsI_9cFDUSH1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xG_cIdHY0XwvoyDIyuQh-1" source="GzW3q7O4qsI_9cFDUSH1-0">
+        <mxCell id="GzW3q7O4qsI_9cFDUSH1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="xG_cIdHY0XwvoyDIyuQh-1" source="GzW3q7O4qsI_9cFDUSH1-0" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="288.1300000000001" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GzW3q7O4qsI_9cFDUSH1-0" value="Solution of&lt;br&gt;57 mg of Na2PdCl4 &lt;br&gt;and 3 mL od D.W" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="xG_cIdHY0XwvoyDIyuQh-1">
-          <mxGeometry x="228.13" y="360" width="120" height="50" as="geometry" />
+        <mxCell id="GzW3q7O4qsI_9cFDUSH1-0" value="Solution of&lt;br&gt;57 mg of Na&lt;sub&gt;2&lt;/sub&gt;PdCl&lt;sub&gt;4 &lt;/sub&gt;&lt;br&gt;and 3 mL of H&lt;sub&gt;2&lt;/sub&gt;O" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="xG_cIdHY0XwvoyDIyuQh-1" vertex="1">
+          <mxGeometry x="232.13" y="358" width="112" height="54" as="geometry" />
         </mxCell>
+        <mxCell id="aXbsMq3pK-TBSLA1wVEx-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;endArrow=block;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endFill=1;" edge="1" parent="xG_cIdHY0XwvoyDIyuQh-1" source="aXbsMq3pK-TBSLA1wVEx-12" target="aXbsMq3pK-TBSLA1wVEx-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="192.12" y="795" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aXbsMq3pK-TBSLA1wVEx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xG_cIdHY0XwvoyDIyuQh-1" source="aXbsMq3pK-TBSLA1wVEx-2" target="aXbsMq3pK-TBSLA1wVEx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aXbsMq3pK-TBSLA1wVEx-2" value="&lt;br&gt;Heating mantle &lt;br&gt;at 200 ℃ under stirring&lt;br&gt;for a certain time&lt;br&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20style%3D%22edgeStyle%3DelbowEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BexitX%3D0%3BexitY%3D0.5%3BexitDx%3D0%3BexitDy%3D0%3BentryX%3D0.5%3BentryY%3D0%3BentryDx%3D0%3BentryDy%3D0%3BendArrow%3Dopen%3BstartSize%3D14%3BendSize%3D14%3BsourcePerimeterSpacing%3D8%3BtargetPerimeterSpacing%3D8%3B%22%20edge%3D%221%22%20source%3D%223%22%20target%3D%228%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CArray%20as%3D%22points%22%3E%3CmxPoint%20x%3D%22166%22%20y%3D%22124%22%2F%3E%3CmxPoint%20x%3D%22152%22%20y%3D%22174%22%2F%3E%3C%2FArray%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22(X%20%3D%201.5%2C%203.1%2C%205.3%2C%20and%206.6)%20g%20%26lt%3Bbr%26gt%3Bof%20Ru(acac)3%26amp%3Bnbsp%3B%22%20style%3D%22text%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22182%22%20y%3D%2284%22%20width%3D%22160%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20style%3D%22edgeStyle%3DelbowEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BexitX%3D0%3BexitY%3D0.5%3BexitDx%3D0%3BexitDy%3D0%3BentryX%3D0.5%3BentryY%3D0%3BentryDx%3D0%3BentryDy%3D0%3BendArrow%3Dopen%3BstartSize%3D14%3BendSize%3D14%3BsourcePerimeterSpacing%3D8%3BtargetPerimeterSpacing%3D8%3B%22%20edge%3D%221%22%20source%3D%225%22%20target%3D%228%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CArray%20as%3D%22points%22%3E%3CmxPoint%20x%3D%22166%22%20y%3D%22164%22%2F%3E%3CmxPoint%20x%3D%22152%22%20y%3D%22194%22%2F%3E%3C%2FArray%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%225%22%20value%3D%221.77%20g%20of%20Na2EDTA%C2%B72H2O%22%20style%3D%22text%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22187%22%20y%3D%22134%22%20width%3D%22170%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%226%22%20style%3D%22edgeStyle%3DelbowEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BentryX%3D0.5%3BentryY%3D0%3BentryDx%3D0%3BentryDy%3D0%3BendArrow%3Dopen%3BstartSize%3D14%3BendSize%3D14%3BsourcePerimeterSpacing%3D8%3BtargetPerimeterSpacing%3D8%3B%22%20edge%3D%221%22%20source%3D%227%22%20target%3D%228%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CArray%20as%3D%22points%22%3E%3CmxPoint%20x%3D%22166%22%20y%3D%22214%22%2F%3E%3CmxPoint%20x%3D%22154%22%20y%3D%22204%22%2F%3E%3C%2FArray%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%227%22%20value%3D%220.39%20g%20of%20NaOH%22%20style%3D%22text%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22187%22%20y%3D%22164%22%20width%3D%22120%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%228%22%20value%3D%22Dissolution%20in%208mL%20of%20D.W%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BhachureGap%3D4%3BpointerEvents%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22106.25%22%20y%3D%22244%22%20width%3D%22120%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="xG_cIdHY0XwvoyDIyuQh-1">
+          <mxGeometry x="523" y="578" width="145" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="aXbsMq3pK-TBSLA1wVEx-4" value="Centrifugation &lt;br&gt;and washing with ethanol 3 times" style="rhombus;whiteSpace=wrap;html=1;rounded=1;hachureGap=4;" vertex="1" parent="xG_cIdHY0XwvoyDIyuQh-1">
+          <mxGeometry x="528" y="684" width="135" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aXbsMq3pK-TBSLA1wVEx-5" value="Drying" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="xG_cIdHY0XwvoyDIyuQh-1">
+          <mxGeometry x="573.5" y="833" width="44" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="aXbsMq3pK-TBSLA1wVEx-6" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="xG_cIdHY0XwvoyDIyuQh-1" source="aXbsMq3pK-TBSLA1wVEx-7" target="aXbsMq3pK-TBSLA1wVEx-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="191.87" y="590" />
+              <mxPoint x="177.87" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aXbsMq3pK-TBSLA1wVEx-7" value="40 mg of alpha-D-Glucose" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="xG_cIdHY0XwvoyDIyuQh-1">
+          <mxGeometry x="207.87" y="550" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aXbsMq3pK-TBSLA1wVEx-8" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="xG_cIdHY0XwvoyDIyuQh-1" target="aXbsMq3pK-TBSLA1wVEx-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="191.87" y="630" />
+              <mxPoint x="177.87" y="660" />
+            </Array>
+            <mxPoint x="202" y="601" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aXbsMq3pK-TBSLA1wVEx-9" value="10 mL of Oleylamine" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="xG_cIdHY0XwvoyDIyuQh-1">
+          <mxGeometry x="207.87" y="585" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aXbsMq3pK-TBSLA1wVEx-10" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="xG_cIdHY0XwvoyDIyuQh-1" source="aXbsMq3pK-TBSLA1wVEx-11" target="aXbsMq3pK-TBSLA1wVEx-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="191.87" y="680" />
+              <mxPoint x="179.87" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aXbsMq3pK-TBSLA1wVEx-11" value="6 mL of 18 nm Pd cubic&lt;br&gt;solution" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="xG_cIdHY0XwvoyDIyuQh-1">
+          <mxGeometry x="212.87" y="630" width="143" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aXbsMq3pK-TBSLA1wVEx-12" value="Stirring in a &lt;br&gt;50 mL schlenk flask&lt;br&gt;vigerously for &lt;br&gt;15 min" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="xG_cIdHY0XwvoyDIyuQh-1">
+          <mxGeometry x="134" y="706" width="116.25" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aXbsMq3pK-TBSLA1wVEx-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xG_cIdHY0XwvoyDIyuQh-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="595.01" y="800" as="sourcePoint" />
+            <mxPoint x="595.01" y="827" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="1qkUt0ExrOuNpEt3amkt" name="Page-7">
+    <mxGraphModel dx="981" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Ka4L2FJVzCkK3GHvpatF-0" />
+        <mxCell id="Ka4L2FJVzCkK3GHvpatF-1" parent="Ka4L2FJVzCkK3GHvpatF-0" />
       </root>
     </mxGraphModel>
   </diagram>
