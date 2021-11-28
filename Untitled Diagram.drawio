@@ -1,4 +1,4 @@
-<mxfile modified="2021-11-28T15:44:40.803Z" host="app.diagrams.net" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="g9oQut3qV_PZtPS7xMnz" version="15.7.0" type="github" pages="7">
+<mxfile modified="2021-11-28T16:43:56.431Z" host="app.diagrams.net" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="_S0FXezKmF-jV1E4Farg" version="15.7.0" type="github" pages="7">
   <diagram id="q9pRB2oo7dFzipD1FP0M" name="Ru@CEDTA or Glocose">
     <mxGraphModel dx="981" dy="557" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -611,7 +611,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rAqSBhXX1dC4XZsq_j-o" name="Page-6">
-    <mxGraphModel dx="981" dy="557" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="818" dy="464" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="xG_cIdHY0XwvoyDIyuQh-0" />
         <mxCell id="xG_cIdHY0XwvoyDIyuQh-1" parent="xG_cIdHY0XwvoyDIyuQh-0" />
@@ -687,7 +687,7 @@
         <mxCell id="xG_cIdHY0XwvoyDIyuQh-19" value="Reaction at 80 ℃ for 3 h" style="rounded=0;whiteSpace=wrap;html=1;" parent="xG_cIdHY0XwvoyDIyuQh-1" vertex="1">
           <mxGeometry x="500.63" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xG_cIdHY0XwvoyDIyuQh-20" value="Re-dispersion in Oleylamine at a&amp;nbsp; concenttration of 1.8mg/mL" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;" parent="xG_cIdHY0XwvoyDIyuQh-1" vertex="1">
+        <mxCell id="xG_cIdHY0XwvoyDIyuQh-20" value="Re-dispersion in Oleylamine at a&amp;nbsp; concenttration of &lt;br&gt;1.8 mg/mL" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;" parent="xG_cIdHY0XwvoyDIyuQh-1" vertex="1">
           <mxGeometry x="500.63" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GzW3q7O4qsI_9cFDUSH1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="xG_cIdHY0XwvoyDIyuQh-1" source="GzW3q7O4qsI_9cFDUSH1-0" edge="1">
